@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Dependencies
+blog-web/node_modules/
+
+# Build output
+blog-server/target/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
