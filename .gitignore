@@ -8,12 +8,25 @@ blog-web/node_modules/
 # Build output
 blog-server/target/
 
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
 # OS
 Thumbs.db
 .DS_Store
 
 # Logs
 *.log
+hs_err_pid*
+replay_pid*
 
 # Environment
 .env
